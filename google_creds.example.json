@@ -1,0 +1,8 @@
+{
+  "type": "service_account",
+  "project_id": "your-wow-erp-project-id",
+  "private_key_id": "YOUR_PRIVATE_KEY_ID_HERE",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nYOUR_SECRET_PRIVATE_KEY_GOES_HERE\n-----END PRIVATE KEY-----\n",
+  "client_email": "your-automation-account@your-project.iam.gserviceaccount.com",
+  "client_id": "12345678901234567890"
+}
